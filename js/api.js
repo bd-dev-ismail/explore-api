@@ -1,2 +1,2 @@
-const user = {name: 'ismail', id: 353, passwrod: 'heof'};
-console.log(user);
+const stuInfo = JSON.stringify({ name: "James", roll: 3 });
+console.log(stuInfo.name)
